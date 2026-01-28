@@ -8,6 +8,7 @@
 ## Features
 - **Free**: single file only • Video ≤200MB • Photo ≤10MB
 - **Pro**: batch mode + higher limits + **AVIF** output
+- **Pro purchases:** currently supported on Solana Mobile phones. Wider Android support is in progress.
 
 ## Supported formats
 **Input**
