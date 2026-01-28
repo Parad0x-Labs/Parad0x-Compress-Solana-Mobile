@@ -1,7 +1,7 @@
 # Compliance & Transparency
 
 ## On-Device Processing
-ParaD0x Compress runs a custom FFmpeg engine locally. No media is ever uploaded to any server for processing.
+Parad0x Compress runs a custom FFmpeg engine locally. No media is ever uploaded to any server for processing.
 
 ## Permissions Usage
 - **INTERNET**: Required only for Solana RPC calls (verifying Pro payment) and Wallet Adapter communication.
