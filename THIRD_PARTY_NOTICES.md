@@ -23,13 +23,14 @@ The App includes **FFmpeg** via **FFmpegKit**.
 - If the distributed build is **GPL**, additional GPL obligations apply.
 
 **Project references (for license texts and sources):**
-- FFmpeg project (licenses + source)
-- FFmpegKit project (licenses + source)
+- FFmpegKit (native library + build): https://github.com/arthenica/ffmpeg-kit
+- FFmpegKit React Native wrapper: https://github.com/arthenica/ffmpeg-kit-react-native
 
 **Build disclosure (fill this in):**
-- FFmpegKit variant used: `__________` (e.g., “full-gpl”, “full”, “min”, custom)
-- Any local modifications: `Yes/No` (if Yes, describe briefly)
-- Source availability link (exact version used): `__________`
+- FFmpegKit variant used: ffmpeg-kit-react-native@X.Y.Z
+- Any local modifications: **No** (FFmpeg/FFmpegKit unmodified; only app logic and runtime encoding parameters differ)
+- Source availability link: https://github.com/arthenica/ffmpeg-kit (and wrapper: https://github.com/arthenica/ffmpeg-kit-react-native)
+
 
 ---
 
