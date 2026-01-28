@@ -1,14 +1,25 @@
 # Copyright & Ownership
 
-**© 2026 ParaD0x Labs**
+© 2026 Parad0x Labs. All rights reserved.
 
-ParaD0x Labs owns the application code, UI design, and "ParaD0x Compress" branding.
+Parad0x Labs owns the original application code, UI design, and the “Parad0x Compress” brand assets included in this repository, except where otherwise noted.
 
 ## Trademarks
-"ParaD0x Compress" and "ParaD0x Labs" are trademarks of ParaD0x Labs.
+“Parad0x Labs” and “Parad0x Compress” are trade names/marks of Parad0x Labs.
+
+## Ownership (Original IP)
+Parad0x Labs owns the proprietary compression **logic and protocol** implemented by this app, including
+workflows, parameter selection, heuristics, presets, and on-device processing orchestration built on
+top of third-party codecs/encoders.
 
 ## Third-Party Notices
-This software includes **FFmpeg** via **FFmpegKit**, used under the applicable licenses (LGPL/GPL).
-All other custom assets are property of ParaD0x Labs unless otherwise noted.
+This software includes third-party components, including but not limited to:
+- FFmpeg via FFmpegKit (LGPL/GPL, as applicable)
+- React Native and related dependencies (various open-source licenses)
+- Solana / Mobile Wallet Adapter and Solana web3 libraries (various open-source licenses)
 
-See [LICENSE](./LICENSE) for terms of use.
+Phantom, Solana Seeker, and other wallet apps are third-party products and are not affiliated with Parad0x Labs.
+
+Parad0x Labs does not claim ownership of these third-party projects; they remain under their respective licenses.
+
+See [LICENSE](./LICENSE) for the license terms for this repository and consult third-party projects for their respective licenses.
