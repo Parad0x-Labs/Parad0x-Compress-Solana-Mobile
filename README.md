@@ -9,7 +9,7 @@
 - **Free**: single file only, caps: video ≤200MB, photo ≤10MB
 - **Pro**: batch mode + higher limits + AVIF output
 
-## Update report (v1.1 vs v1 / VBS v1) — changes only
+## Update report (v1.1 vs v1) — changes only
 - **NEW: Energy system**: compress files over free limits by spending ⚡ Energy.
 - **NEW: Token-based top-ups**: buy `$NULL` tokens to receive Energy instantly (tiered packs).
   - **FYI**:
